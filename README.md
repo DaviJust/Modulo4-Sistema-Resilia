@@ -1,7 +1,7 @@
 # Módulo 4 – Sistema Resilia
  
 <h1> Existem outras entidades além dessas três?</h1>
-<p>Sim, existe, por exemplo, a entidade professor, como as entidades são modelos (objetos) da nossa realidade sobre os quais queremos guardar dados, existem varios dados de professor, e nesse caso os dados seriam os atributos, como: CPF, Nome e etc...</p>
+<p>Sim, existe, por exemplo a entidade professor. Como as entidades são modelos (objetos) da nossa realidade sobre os quais queremos guardar dados, existem varios dados de professor, e nesse caso os dados seriam os atributos, como: CPF, Nome e etc...</p>
 <h1>Quais são os principais campos e tipos?</h1>
 <p>Campo seria igual ao Atributo, ou seja aquilo que vem dentro da entidade. Por exemplo, tem a entidade “curso”, entao você pode ter como atributo o código do curso, o nome. O código é um atributo chave, chave primária(Primary Key), um atributo vira atributo chave, quando ele e algo exclusivo.</p>
 <p>Tipos pode ser explicado de uma forma melhor em exemplos, temos a idade que pode ser int, pois pode ser calculada, o dinheiro que pode ser tipo float, pois permite que o formato textual do dinheiro seja aplicado, existe tambem o varchar, que seria o mais aplicado, varchar se aplica a varias situacoes como nome, numero de telefone, celular, cep, cpf</p>

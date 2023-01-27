@@ -22,4 +22,4 @@
 </ul>
 
 <h1>Print do Modelo Proposto</h1>
-<img width="400" height="400" src="./img/modeloProposto.png" alt="">
+<img width="800" height="600" src="./img/modeloProposto.png" alt="">

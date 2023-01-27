@@ -12,3 +12,10 @@
 <p><i>(0,1) Turma para alunos, ou seja em cada aluno existem varias turmas</i></p>
 
 <p>O MER (Modelo Entidade Relacionamento) ou DER(Diagrama Entidade-Relacionamento) é utilizado para descrever os objetos do mundo real através de entidades, com suas propriedades que são os atributos e os seus relacionamentos. Usamos esses modelos para fazer desenhos que serviram de ponto de partida para identificar os requisitos, montar as entidades, atributos, para assim conseguir criar o banco de dados de forma funcional.</p>
+
+<h1>Pensando em 2 registros para cada entidade</h1>
+<ul>
+<li><p>Cursos: Nome do curso, código do curso, duração do curso</p></li>
+<li><p>Turmas: Código da turma, número de alunos, turno, sala</p></li>
+<li><p>Alunos: Nome, CPF, data de nascimento</p></li>
+</ul>

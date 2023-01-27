@@ -16,7 +16,7 @@
 
 <h1>Pensando em 2 registros para cada entidade</h1> 
 <ul>
-<li><p>Cursos: Nome do curso, poderia ser administração, informática. Outro resgistro poderia ser código do curso criado através do id not_null autoincrement primary_key</p></li>
+<li><p>Cursos: Nome do curso, poderia ser administração, informática. Outro registro poderia ser código do curso criado através do id not_null autoincrement primary_key</p></li>
 <li><p>Turmas: turno que pode ser tarde, noite, manhã e a sala pode ser 04, 02, 05</p></li>
 <li><p>Alunos: Nome que vão ter os registros dos nomes e o cpf que vão ser adicionado os registros dos cpf</p></li>
 </ul>

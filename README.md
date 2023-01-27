@@ -8,7 +8,7 @@
 <p>Nesse caso, os principais campos seriam aqueles marcados com a Primary Key, ou seja, no caso do aluno seria o CPF, ja no caso da turmas poderia ser o codigo especifico daquela turma, os cursos tambem podem ter codigos especificos</p>
 <h1>Como essas entidades estão relacionadas?</h1>
 <p>A turma se relaciona com o curso, o aluno se relaciona a turma, o curso pode ter varias turmas, e a turma pode ter vários alunos. Dessa forma, um curso tem varias turmas, cursos podem formar muitas turmas, enquanto turmas sao formadas por varios alunos. Segue a relacao logica:</p>
-<i>(0.1) Curso para turmas, um curso para varias turmas.</i>
-<i>(0,1) Turma para alunos, ou seja em cada aluno existem varias turmas</i>
+<p><i>(0.1) Curso para turmas, um curso para varias turmas.</i></p>
+<p><i>(0,1) Turma para alunos, ou seja em cada aluno existem varias turmas</i></p>
 
 <p>O MER (Modelo Entidade Relacionamento) ou DER(Diagrama Entidade-Relacionamento) é utilizado para descrever os objetos do mundo real através de entidades, com suas propriedades que são os atributos e os seus relacionamentos. Usamos esses modelos para fazer desenhos que serviram de ponto de partida para identificar os requisitos, montar as entidades, atributos, para assim conseguir criar o banco de dados de forma funcional.</p>

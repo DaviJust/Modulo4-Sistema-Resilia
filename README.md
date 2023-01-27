@@ -10,7 +10,7 @@
 <p>A turma se relaciona com o curso, o aluno se relaciona a turma, o curso pode ter varias turmas, e a turma pode ter vários alunos. Dessa forma, um curso tem varias turmas, cursos podem formar muitas turmas, enquanto turmas sao formadas por varios alunos. Segue a relacao logica:</p>
 <ul>
 <li><p><i>(0.1) Curso para turmas, um curso para varias turmas.</i></p></li>
-<li><p><i>(0,1) Turma para alunos, ou seja em cada aluno existem varias turmas</i></p></li>
+<li><p><i>(0,1) Turma para alunos, vários alunos para cada turma</i></p></li>
 </ul>
 <p>O MER (Modelo Entidade Relacionamento) ou DER(Diagrama Entidade-Relacionamento) é utilizado para descrever os objetos do mundo real através de entidades, com suas propriedades que são os atributos e os seus relacionamentos. Usamos esses modelos para fazer desenhos que serviram de ponto de partida para identificar os requisitos, montar as entidades, atributos, para assim conseguir criar o banco de dados de forma funcional.</p>
 

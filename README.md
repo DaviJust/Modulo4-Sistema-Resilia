@@ -20,3 +20,6 @@
 <li><p>Turmas: Código da turma, número de alunos, turno, sala</p></li>
 <li><p>Alunos: Nome, CPF, data de nascimento</p></li>
 </ul>
+
+<h1>Print do Modelo Proposto</h1>
+<img width="600" height="300" src=".modeloProposto.png" alt="">

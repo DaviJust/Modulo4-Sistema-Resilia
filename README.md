@@ -21,5 +21,8 @@
 <li><p>Alunos: Nome que vão ter os registros dos nomes e o cpf que vão ser adicionado os registros dos cpf</p></li>
 </ul>
 
+<h1>Script de criação do banco de dados</h1>
+<p>create database; = para criar a data base </p>
+<p>create table(Atributos) = para criar a tabela de dados</p>
 <h1>Print do Modelo Proposto</h1>
 <img width="1577" height="602" src="./img/modeloProposto.png" alt="">
